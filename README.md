@@ -258,6 +258,8 @@ If you have tons of extra time:
 - [ ] Elements of Programming Interviews (Java version)
     - [book](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
     - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
+    
+ - [ ] [7 Languages in 7 Weeks](https://www.amazon.com/dp/193435659X/ref=cm_sw_su_dp?tag=a200-20)
 
 ### Computer Architecture
 
